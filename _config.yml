@@ -1,6 +1,7 @@
 # -----------------------------------------------------------------------------
 # Site settings dd
 # -----------------------------------------------------------------------------
+
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Dahun
 middle_name: 
