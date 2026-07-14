@@ -6,7 +6,7 @@ subtitle: Ph.D. Student, Seoul National University of Science and Technology
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: fig.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
